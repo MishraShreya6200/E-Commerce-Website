@@ -1,5 +1,5 @@
 /*
- ** Author: Santosh Kumar Dash
+ ** Author: Shreya Mishra
  ** Author URL: http://santoshdash.epizy.com/
  ** Github URL: https://github.com/quintuslabs/fashion-cube
  */
