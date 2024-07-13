@@ -1,5 +1,5 @@
 /*
- ** Author: Santosh Kumar Dash
+ ** Author: Shreya Mishra
  ** Author URL: http://santoshdash.epizy.com/
  ** Github URL: https://github.com/quintuslabs/fashion-cube
  */
@@ -61,7 +61,7 @@ function Footer(props) {
                 ©2018 All Rights Reserverd. This template is made with{" "}
                 <i className="fa fa-heart-o" aria-hidden="true"></i> by{" "}
                 <a href="https://quintuslabs.com/" target="_blank">
-                  Quintus Labs
+                    Shreya Mishra
                 </a>
               </div>
             </div>
