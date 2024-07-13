@@ -1,4 +1,4 @@
-# Fashion Cube-Ecommerce Application
+# Ecommerce Application
 
 #Shreya Mishra
 #General Info
