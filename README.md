@@ -1,10 +1,10 @@
 # Fashion Cube-Ecommerce Application
 
+#Shreya Mishra
 #General Info
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
-[Live Demo](https://quintuslabs.github.io/fashion-cube)
 
 ## This project is created using:
 
